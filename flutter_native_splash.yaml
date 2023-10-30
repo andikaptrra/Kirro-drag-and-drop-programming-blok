@@ -1,0 +1,5 @@
+flutter_native_splash:
+  color: "bada55" # Warna latar belakang splash screen (dalam format heksadesimal)
+  fullscreen: true # Mengatur mode fullscreen
+  android: true # Mengonfigurasi perilaku di platform Android
+  ios: true # Mengonfigurasi perilaku di platform iOS
